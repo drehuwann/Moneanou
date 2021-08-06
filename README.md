@@ -1,4 +1,6 @@
+
 # README.md
+
 Copyright (C) 2021 by drehuwann@gmail.com
 
    This program is free software: you can redistribute it and/or modify
@@ -14,43 +16,29 @@ Copyright (C) 2021 by drehuwann@gmail.com
    You should have received a copy of the GNU General Public License
    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Monéanou.
+## Mon&#233;anou.
 
-Repository created for following purposes :
+### OBJET du PROJET :
 
-	   Deposit of the name "Monéanou".
-	   	   the unicode char 0x00e9 designate the Latin e&acute letter.
-		   and belongs to the name deposited.
-		   
-	   Testing Unicode integration on github.
-	   	   For example : '&#x00e9;'
-		       	       	 "&#x00e9;"
-				 &#x00e9;
-				 U+0x00E9;
+Travaux de r&#233;daction, au format [markdown](https://www.markdownguide.org/), et de mani&#232;re coll&#233;giale, d'un brouillon de ['Livre blanc'](https://fr.wikipedia.org/wiki/Livre_blanc), d&#233;finissant et d&#233;crivant une [crypto-monnaie](https://siecledigital.fr/2020/11/02/mnbc-tout-savoir-monnaie-numerique/), &#224; b&#233;n&#233;fice non lucratif, mais profond&#233;ment Pacifique.<br>
 
-##SET LOCALE=fr_FR
+> ***Mon&#233;anou*, monnaie &#224; na&#238;tre du pays &#224; nous, fondant Devise du pays &#224; na&#238;tre,<br>**
 
+tel que d&#233;fini et garanti a ce jour par la [constitution](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000393606/) de la Ve R&#233;publique Francaise.
 
-OBJET du PROJET :
-      travaux de redaction, au format *.txt, et de maniere collegiale, d'un brouillon de
-      'White Paper', definissant et decrivant une crypto-monnaie, a benefice non lucratif
-      mais profondement Pacifique.
-      Mon&#x00e9anou, monnaie a naitre du pays a nous,
-      fondant Devise du pays a naitre, tel que defini et garanti a ce jour par la
-      constitution de la Ve Republique Francaise.
+### APPEL a CONTRIBUTIONS:
 
-APPEL a CONTRIBUTIONS:
-      Toutes bonnes volontes assorties de competences maitrisees bienvenues.
-      Feel free to giveup feedback.
+Toutes bonnes volont&#233;s assorties de comp&#233;tences ma&#238;tris&#233;es bienvenues.<br>
+Feel free to giveup feedback.
       
-PISTES RECHERCHES ET DEVELOPPEMENT:
-	[monnaie numerique de banque centrale](https://siecledigital.fr/2020/11/02/mnbc-tout-savoir-monnaie-numerique/)
-	[Livre blanc](https://fr.wikipedia.org/wiki/Livre_blanc)
-	[Wikihow livre blanc](https://fr.wikihow.com/r%C3%A9diger-un-livre-blanc)
-	[daohack](https://www.coindesk.com/understanding-dao-hack-journalists)
-	[einfin explained](https://academy.ivanontech.com/blog/xinfin-explained-exploring-xinfins-hybrid-blockchain)
-	[cryptonaute xinfin](https://cryptonaute.fr/?s=xinfin)
-	[cbdc over xinfin](https://www.xrpactualites.com/blog-xdc/comment-creer-une-monnaie-numerique-de-la-banque-centrale-cbdc-sur-le-reseau-xinfin-xdc)
-	[xinfindev](https://t.me/s/XinFinDevelopers)
+### PISTES RECHERCHES ET DEVELOPPEMENT:
+
+[Wikihow livre blanc](https://fr.wikihow.com/r%C3%A9diger-un-livre-blanc)<br>
+[daohack](https://www.coindesk.com/understanding-dao-hack-journalists)<br>
+[xinfin explained](https://academy.ivanontech.com/blog/xinfin-explained-exploring-xinfins-hybrid-blockchain)<br>
+[cryptonaute xinfin](https://cryptonaute.fr/?s=xinfin)<br>
+[cbdc over xinfin](https://www.xrpactualites.com/blog-xdc/comment-creer-une-monnaie-numerique-de-la-banque-centrale-cbdc-sur-le-reseau-xinfin-xdc)<br>
+[xinfindev](https://t.me/s/XinFinDevelopers)<br>
+[livre blanc xinfin](https://www.xinfin.org/docs/whitepaper-tech.pdf)<br>
 
 See you taleur.
