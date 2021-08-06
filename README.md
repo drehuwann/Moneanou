@@ -23,10 +23,10 @@ Repository created for following purposes :
 		   and belongs to the name deposited.
 		   
 	   Testing Unicode integration on github.
-	   	   For example : '&#x00e9'
-		       	       	 "&#x00e9"
-				 &#x00e9
-				 U+0x00E9
+	   	   For example : '&#x00e9;'
+		       	       	 "&#x00e9;"
+				 &#x00e9;
+				 U+0x00E9;
 
 ##SET LOCALE=fr_FR
 
@@ -44,6 +44,13 @@ APPEL a CONTRIBUTIONS:
       Feel free to giveup feedback.
       
 PISTES RECHERCHES ET DEVELOPPEMENT:
-      See, locally, ~/.mozilla/\*defaul\*/places.sqlite
+	[monnaie numerique de banque centrale](https://siecledigital.fr/2020/11/02/mnbc-tout-savoir-monnaie-numerique/)
+	[Livre blanc](https://fr.wikipedia.org/wiki/Livre_blanc)
+	[Wikihow livre blanc](https://fr.wikihow.com/r%C3%A9diger-un-livre-blanc)
+	[daohack](https://www.coindesk.com/understanding-dao-hack-journalists)
+	[einfin explained](https://academy.ivanontech.com/blog/xinfin-explained-exploring-xinfins-hybrid-blockchain)
+	[cryptonaute xinfin](https://cryptonaute.fr/?s=xinfin)
+	[cbdc over xinfin](https://www.xrpactualites.com/blog-xdc/comment-creer-une-monnaie-numerique-de-la-banque-centrale-cbdc-sur-le-reseau-xinfin-xdc)
+	[xinfindev](https://t.me/s/XinFinDevelopers)
 
 See you taleur.
