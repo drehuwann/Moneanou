@@ -24,9 +24,9 @@ Travaux de r&#233;daction, au format [markdown](https://www.markdownguide.org/),
 
 > ***Mon&#233;anou*, monnaie &#224; na&#238;tre du pays &#224; nous, fondant Devise du pays &#224; na&#238;tre,<br>**
 
-tel que d&#233;fini et garanti a ce jour par la [constitution](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000393606/) de la Ve R&#233;publique Francaise.
+tel que d&#233;fini et garanti &#224; ce jour par la [constitution](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000393606/) de la Ve R&#233;publique Francaise.
 
-### APPEL a CONTRIBUTIONS:
+### APPEL &#224; CONTRIBUTIONS:
 
 Toutes bonnes volont&#233;s assorties de comp&#233;tences ma&#238;tris&#233;es bienvenues.<br>
 Feel free to giveup feedback.
@@ -40,5 +40,11 @@ Feel free to giveup feedback.
 [cbdc over xinfin](https://www.xrpactualites.com/blog-xdc/comment-creer-une-monnaie-numerique-de-la-banque-centrale-cbdc-sur-le-reseau-xinfin-xdc)<br>
 [xinfindev](https://t.me/s/XinFinDevelopers)<br>
 [livre blanc xinfin](https://www.xinfin.org/docs/whitepaper-tech.pdf)<br>
+[Etude du cas du Service des Postes et T&#233;lecommunications des &#238;les Wallis et Futuna](https://www.wallisetfutuna.net/communications.php), piste soumise par [Yata ou Rien](mailto:anakana1964@gmail.com)<br>
+### ARCHITECTURE LOGICIELLE
+#### Pr&#233;ambule
+La culture kanak, en tant que lien social, au centre du dispositif de d&#233;colonisation, se d&#233;cline aujourd'hui en 8 aires linguistiques et 32 langues vernaculaires.<br>
+On remarquera que ce d&#233;coupage se pr&#234;te bien &#224; une repr&#233;sentation num&#233;rique.<br>
+On se propose de s'inspirer de l'exemple du [palabre](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000002334927) au cours duquels les diff&#233;rentes langues s'articulent entre elles jusqu'&#224; l'expression de la parole partag&#233;e qui les lie entre elles, dans le consensus et l'unanimit&#233;.<br> 
 
 See you taleur.
