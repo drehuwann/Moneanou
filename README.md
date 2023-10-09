@@ -33,8 +33,9 @@ Feel free to giveup feedback.
       
 ### PISTES RECHERCHES ET DEVELOPPEMENT:
 
-[livre blanc xinfin, exemple de crypto-monnaie de banque centrale.](https://www.xinfin.org/docs/whitepaper-tech.pdf)<br>
-[Etude du cas du Service des Postes et T&#233;lecommunications des &#238;les Wallis et Futuna](https://www.wallisetfutuna.net/communications.php), piste soumise par [Yata ou Rien](mailto:anakana1964@gmail.com)<br>
+[livre blanc xinfin](https://www.xinfin.org/docs/whitepaper-tech.pdf), exemple d'impl&#233;mentation de [crypto-monnaie de banque centrale.](https://fr.wikipedia.org/wiki/Monnaie_num%C3%A9rique_de_banque_centrale)<br>
+Voir aussi ce [rapport sur les technologies prometteuses](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/cbdc/global-cbdc-challenge-report-2021.pdf)<br>
+
 ### ARCHITECTURE LOGICIELLE
 #### Pr&#233;ambule
 La culture kanak, en tant que lien social, au centre du dispositif de d&#233;colonisation, se d&#233;cline aujourd'hui en 8 aires linguistiques et 32 langues vernaculaires.<br>
